@@ -1,16 +1,13 @@
-### Hi there 👋
+### Sobre mim
 
-<!--
-**MauricioPaivadaSilva/MauricioPaivadaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do curso de licenciatura em matemática no ![IFPR - _Campus_ Campo Largo]([https://campolargo](https://ifpr.edu.br/campo-largo/)https://ifpr.edu.br/campo-largo/), atualmente estou no 5° semestre e participo do Programa Institucional de Bolsas de Iniciação Científica (PIBIC).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/MauricioPaivadaSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioPaivadaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioPaivadaSilva&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+![Snake animation](https://github.com/MauricioPaivadaSilva/MauricioPaivadaSilva/blob/output/github-contribution-grid-snake.svg)
