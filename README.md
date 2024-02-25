@@ -10,4 +10,8 @@ Sou estudante do curso de licenciatura em matemática no ![IFPR - _Campus_ Campo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioPaivadaSilva&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/MauricioPaivadaSilva/MauricioPaivadaSilva/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MauricioPaivadaSilva/MauricioPaivadaSilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MauricioPaivadaSilva/MauricioPaivadaSilva/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MauricioPaivadaSilva/MauricioPaivadaSilva/output/github-contribution-grid-snake.svg">
+</picture>
