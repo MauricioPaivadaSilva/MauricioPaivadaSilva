@@ -1,6 +1,6 @@
 ### Sobre mim
 
-Sou estudante do curso de licenciatura em matemática no [IFPR - _Campus_ Campo Largo](https://Campo Largo.ifpr.edu.br), atualmente estou no 5° semestre e participo do Programa Institucional de Bolsas de Iniciação Científica (PIBIC).
+Sou estudante do curso de licenciatura em matemática no [IFPR - _Campus_ Campo Largo](https://campolargo.ifpr.edu.br), atualmente estou no 5° semestre e participo do Programa Institucional de Bolsas de Iniciação Científica (PIBIC).
 
 ---
 
