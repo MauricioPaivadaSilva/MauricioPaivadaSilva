@@ -12,6 +12,8 @@ Sou estudante do curso de licenciatura em matemática no [IFPR - _Campus_ Campo 
 
 ---
 
+![3ds Max](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg)
+
 <div>
   <a href="https://github.com/MauricioPaivadaSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioPaivadaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
