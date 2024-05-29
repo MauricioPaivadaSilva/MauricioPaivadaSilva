@@ -8,7 +8,7 @@ Sou estudante do curso de licenciatura em matemática no [IFPR - _Campus_ Campo 
 
 | Sistemas Operacionais | Habilidades | IDE |
 |---|---|---|
-| <img alt="Linux" src="https://img.shields.io/badge/Linux-017AD7?logo=linux&logoColor=white&style=for-the-badge" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge" /> | <img alt="Python" src="https://img.shields.io/badge/Python-0000AA?logo=python&logoColor=white&style=for-the-badge" /> <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" /> <img alt="Rust" src="https://img.shields.io/badge/Rust-9B352D?logo=rust&logoColor=black&style=for-the-badge" /> | <img alt="NeoVim" src="https://img.shields.io/badge/nvim-005500?logo=neovim&logoColor=white&style=for-the-badge" /> |
+| ![3ds Max](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg) <img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge" /> | <img alt="Python" src="https://img.shields.io/badge/Python-0000AA?logo=python&logoColor=white&style=for-the-badge" /> <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" /> <img alt="Rust" src="https://img.shields.io/badge/Rust-9B352D?logo=rust&logoColor=black&style=for-the-badge" /> | <img alt="NeoVim" src="https://img.shields.io/badge/nvim-005500?logo=neovim&logoColor=white&style=for-the-badge" /> |
 
 ---
 
