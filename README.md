@@ -24,6 +24,10 @@ Sou estudante do curso de licenciatura em matemática no [IFPR - Campus Campo La
 
 Protótipo de _feature_ voltada a apresentação de gráficos do funcionamento da corrente alternada, para ensino de Números Complexos com aplicação em Física (elétrica).
 
+### [Quiz da ](https://github.com/MauricioPaivadaSilva/Quiz-da-Matematica)
+
+Jogo desenvolvido como parte avaliativa do componente curricular de Introdução a Programação II, com possibilidade de uso geral na matemática.
+
 ---
 
 ## Interesses
