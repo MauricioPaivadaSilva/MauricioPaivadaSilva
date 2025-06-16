@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Sou estudante do curso de licenciatura em matemática no [IFPR - Campus Campo Largo](https://campolargo.ifpr.edu.br), atualmente estou no 5° semestre e participo do Programa Institucional de Bolsas de Iniciação Científica (PIBIC), onde desenvolvo projetos de pesquisa voltados à Educação Inclusiva. Também participo do GPTEM - Grupo de Pesquisa sobre Tecnologias na Educação Matemática (UTFPR), como pesquisador, tendo como linha de pesquisa: Tecnologias Digitais na Educação Matemática.
+Sou estudante do curso de licenciatura em matemática no [IFPR - Campus Campo Largo](https://campolargo.ifpr.edu.br), atualmente estou no 7° semestre. Participei do Programa Institucional de Bolsas de Iniciação Científica (PIBIC), onde desenvolvo projetos de pesquisa voltados à Educação Inclusiva. Hoje sou estagiário da Direção de Ensino Pesquisa e Extensão (DIEPEX) da mesma instituição onde estudo. Também participo do GPTEM - Grupo de Pesquisa sobre Tecnologias na Educação Matemática (UTFPR), como pesquisador, tendo como linha de pesquisa: Tecnologias Digitais na Educação Matemática.
 
 ---
 
